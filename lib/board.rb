@@ -1,12 +1,12 @@
 board = [" ", " ", " "]
  
-# Position 1: Left
+"0": Left
 board[0]
  
-# Position 2: Middle
+"1": Middle
 board[1]
  
-# Position 3: Right
+"2": Right
 board[2]
  
 # Move X to the Position 2, Middle
