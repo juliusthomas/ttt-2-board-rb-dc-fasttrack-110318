@@ -1,14 +1,14 @@
-row = [" ", " ", " "]
+board = [" ", " ", " "]
  
 # Position 1: Left
-row[0]
+board[0]
  
 # Position 2: Middle
-row[1]
+board[1]
  
 # Position 3: Right
-row[2]
+board[2]
  
 # Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
+board[1] = "X"
+board #=> [" ", "X", " "]
